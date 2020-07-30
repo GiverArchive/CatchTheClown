@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "927c42ee-e76d-4c1b-844d-7b19aa456dd2",
+            "Value": {
+                "id": "df71c3cc-3713-49fb-83b6-b12d74801cd3",
+                "resourcePath": "fonts\\font_seilaonome\\font_seilaonome.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "bdc0dec2-dde4-4788-9a8d-8c7a6787293b",
             "Value": {
                 "id": "33a8f765-64f2-4f51-80b3-dc8bd2ce7183",
